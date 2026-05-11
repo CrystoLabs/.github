@@ -1,0 +1,153 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+
+      <stop offset="0" stop-color="#3A3C3A"/>
+
+      <stop offset="0.58" stop-color="#2C2E2C"/>
+
+      <stop offset="1" stop-color="#171918"/>
+
+    </linearGradient>
+
+    <pattern id="diagonal" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(18)">
+
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#FFFFFF" stroke-opacity="0.028" stroke-width="1"/>
+
+    </pattern>
+
+    <linearGradient id="orange" x1="0" y1="0" x2="88" y2="88" gradientUnits="userSpaceOnUse">
+
+      <stop offset="0" stop-color="#F08A4B"/>
+
+      <stop offset="1" stop-color="#C7652F"/>
+
+    </linearGradient>
+
+  </defs>
+
+  <rect width="1400" height="360" fill="url(#bg)"/>
+
+  <rect width="1400" height="360" fill="url(#diagonal)"/>
+
+  <rect x="32" y="42" width="1336" height="276" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1"/>
+
+  <rect x="35" y="45" width="1330" height="270" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+
+  <rect x="120" y="98" width="1160" height="1" fill="#FFFFFF" opacity="0.08"/>
+
+  <rect x="120" y="276" width="1160" height="1" fill="#FFFFFF" opacity="0.08"/>
+
+  <rect x="120" y="276" width="360" height="2" fill="#E37539" opacity="0.65"/>
+
+  <g transform="translate(145 128)">
+
+    <path d="M42 0L84 42L42 84L0 42L42 0Z" fill="url(#orange)"/>
+
+    <path d="M42 23L61 42L42 61L23 42L42 23Z" fill="#242624"/>
+
+  </g>
+
+  <text x="260" y="137"
+
+        fill="#D8D9D6"
+
+        font-family="Orbitron, Eurostile, Bank Gothic, Microgramma, Arial Black, Arial, Helvetica, sans-serif"
+
+        font-size="31"
+
+        font-weight="800"
+
+        letter-spacing="13">
+
+    CRYSTOLABS
+
+  </text>
+
+  <text x="260" y="193"
+
+        fill="#F2F2EF"
+
+        font-family="Orbitron, Eurostile, Bank Gothic, Microgramma, Arial Black, Arial, Helvetica, sans-serif"
+
+        font-size="50"
+
+        font-weight="800"
+
+        letter-spacing="4">
+
+    PUBLIC ENGINEERING
+
+  </text>
+
+  <text x="260" y="245"
+
+        fill="#E37539"
+
+        font-family="Orbitron, Eurostile, Bank Gothic, Microgramma, Arial Black, Arial, Helvetica, sans-serif"
+
+        font-size="50"
+
+        font-weight="800"
+
+        letter-spacing="4">
+
+    SURFACE
+
+  </text>
+
+  <g>
+
+    <circle cx="1040" cy="160" r="5" fill="#E37539"/>
+
+    <text x="1060" y="166"
+
+          fill="#E37539"
+
+          font-family="Menlo, Consolas, monospace"
+
+          font-size="14"
+
+          letter-spacing="2">
+
+      OFFICIAL
+
+    </text>
+
+    <circle cx="1040" cy="197" r="5" fill="#E37539" opacity="0.68"/>
+
+    <text x="1060" y="203"
+
+          fill="#F2F2EF"
+
+          font-family="Menlo, Consolas, monospace"
+
+          font-size="14"
+
+          letter-spacing="2">
+
+      PUBLIC RESOURCES
+
+    </text>
+
+    <circle cx="1040" cy="234" r="5" fill="#E37539" opacity="0.45"/>
+
+    <text x="1060" y="240"
+
+          fill="#F2F2EF"
+
+          font-family="Menlo, Consolas, monospace"
+
+          font-size="14"
+
+          letter-spacing="2">
+
+      DEVELOPER ACCESS
+
+    </text>
+
+  </g>
+
+</svg>

@@ -1,0 +1,13 @@
+<svg width="1400" height="28" viewBox="0 0 1400 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <rect y="13" width="1400" height="2" fill="#E37539" fill-opacity="0.45"/>
+
+  <rect y="14" width="1400" height="1" fill="#FFFFFF" fill-opacity="0.08"/>
+
+  <circle cx="18" cy="14" r="5" fill="#E37539"/>
+
+  <circle cx="42" cy="14" r="2" fill="#E37539" fill-opacity="0.6"/>
+
+  <circle cx="64" cy="14" r="2" fill="#E37539" fill-opacity="0.35"/>
+
+</svg>
